@@ -18,7 +18,9 @@ Hint:
 Num Approved: 0
 
 * Mavis Tsoi
+* Sam Ethan Mathew
 
 # Fun Fact
 
 * Mavis - I was named after a train from Thomas and Friends
+* Sam - I throw 10 pound balls during my free time
