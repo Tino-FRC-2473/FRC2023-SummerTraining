@@ -15,10 +15,12 @@ Hint:
 
 # Git-It Completion List
 
-Num Approved: 0
+Num Approved: 1
 
 * Mavis Tsoi
+* Shine Chang (approved)
 
 # Fun Fact
 
 * Mavis - I was named after a train from Thomas and Friends
+* Shine - Tetris is a really cool game.
