@@ -15,10 +15,12 @@ Hint:
 
 # Git-It Completion List
 
-Num Approved: 0
+Num Approved: 1
 
+* Bhargav Eranki (approved)
 * Mavis Tsoi
 
 # Fun Fact
 
+* Bhargav - I have been to Universal Studios more than 4 times.
 * Mavis - I was named after a train from Thomas and Friends
