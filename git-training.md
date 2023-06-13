@@ -24,3 +24,7 @@ Num Approved: 0
 * Mavis - I was named after a train from Thomas and Friends
 
 * Grace Cho
+
+# Fun Fact
+
+* Grace - My favorite food is spaghetti
