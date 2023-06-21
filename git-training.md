@@ -15,7 +15,7 @@ Hint:
 
 # Git-It Completion List
 
-Num Approved: 0
+Num Approved: 1
 
 * Mavis Tsoi
 
@@ -23,7 +23,7 @@ Num Approved: 0
 
 * Mavis - I was named after a train from Thomas and Friends
 
-* Grace Cho
+* Grace Cho (approved)
 
 # Fun Fact
 
