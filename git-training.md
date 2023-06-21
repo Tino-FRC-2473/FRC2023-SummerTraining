@@ -15,10 +15,16 @@ Hint:
 
 # Git-It Completion List
 
-Num Approved: 0
+Num Approved: 1
 
 * Mavis Tsoi
 
 # Fun Fact
 
 * Mavis - I was named after a train from Thomas and Friends
+
+* Grace Cho (approved)
+
+# Fun Fact
+
+* Grace - My favorite food is spaghetti
