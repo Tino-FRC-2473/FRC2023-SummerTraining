@@ -15,10 +15,10 @@ Hint:
 
 # Git-It Completion List
 
-Num Approved: 0
+Num Approved: 1
 
 * Mavis Tsoi
-* Tanmayi Dasari
+* Tanmayi Dasari Approved
 
 # Fun Fact
 
