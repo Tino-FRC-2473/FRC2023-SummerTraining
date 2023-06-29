@@ -15,10 +15,12 @@ Hint:
 
 # Git-It Completion List
 
-Num Approved: 0
+Num Approved: 1
 
 * Mavis Tsoi
+* Tanmayi Dasari Approved
 
 # Fun Fact
 
 * Mavis - I was named after a train from Thomas and Friends
+* Tanmayi - I did Tae-kwon-do for 7 years
