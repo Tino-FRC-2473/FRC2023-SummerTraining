@@ -20,5 +20,5 @@ Num Approved: 0
 * Mavis Tsoi
 
 # Fun Fact
-
+* Araav - I like playing the guitar!
 * Mavis - I was named after a train from Thomas and Friends
