@@ -16,7 +16,7 @@ Hint:
 # Git-It Completion List
 
 Num Approved: 0
-
+* Araav Nayak
 * Mavis Tsoi
 
 # Fun Fact
